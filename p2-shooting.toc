@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {I}Introduction}{1}
+\contentsline {section}{\numberline {II}Police Homicides - 2015 through 2016}{1}
+\contentsline {subsection}{\numberline {II.I}Frequency of Shootings}{2}
+\contentsline {subsection}{\numberline {II.II}Goodness-of-fit test for Poisson Distribution}{2}
+\contentsline {subsection}{\numberline {II.III}Police Homicides by Week and Month}{4}
+\contentsline {subsection}{\numberline {II.IV}Confidence Intervals for Poisson parameter}{6}
+\contentsline {section}{\numberline {III}Police Shootings 2017 - Present}{7}
+\contentsline {subsection}{\numberline {III.I}Goodness-of-fit test for Poisson Distribution}{7}
+\contentsline {subsection}{\numberline {III.II}Prediction Intervals}{8}
+\contentsline {subsubsection}{\numberline {III.II.1}Nelson's formula}{8}
